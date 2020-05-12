@@ -1,0 +1,33 @@
+body {
+    /* background-image: url(b2k2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+    background-color: brown;
+}
+
+header {
+    color: black;
+}
+
+.sidebar {
+    /* background-image: url(bk3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: whitesmoke;
+}
+
+@media (max-width: 767px) {
+
+.site-header {
+    color: black;
+}
+
+.sidebar{
+    background-color: rgba(253, 252, 252, 0.9);
+}
+.text-head {
+    color: cornsilk;
+}
+}
